@@ -28,7 +28,6 @@
 
   ! Declaration of member data
   ...
-  ..
 
   ! Declaration of member procedures
   contains
